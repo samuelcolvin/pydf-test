@@ -1,3 +1,3 @@
 Flask
 gunicorn
--e git+https://github.com/samuelcolvin/pydf.git@7faa75ea513b9010e5c2f2a92ac44f1625f8d73c#egg=pydf-master == 0.2
+-e git+https://github.com/samuelcolvin/pydf.git@8852253a302bda1dcc5f2d7ac6dc979ca7efab85#egg=pydf-master == 0.2
