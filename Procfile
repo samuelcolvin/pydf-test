@@ -1,1 +1,1 @@
-web: gunicorn pydf_test:app --log-file=-
+web: python pydf_test.py
