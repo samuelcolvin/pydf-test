@@ -1,0 +1,3 @@
+Flask
+gunicorn
+-e git+https://github.com/samuelcolvin/pydf.git@19ba23e8ebd0a667c65b10273b800dd6c0451ed4#egg=pydf-master == 0.1
